@@ -1,2 +1,1 @@
-ues for learn github 
-thanks
+use for learn github 
